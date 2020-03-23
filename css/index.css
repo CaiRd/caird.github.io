@@ -619,3 +619,12 @@ a.book-footer-next-link {
   margin-top: -20px;
   margin-left: -10px;
 }
+
+#book_footer{
+  height: 60px;
+  background: rgba(255, 255, 255, 0.78);
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  bottom: 0px;
+}
